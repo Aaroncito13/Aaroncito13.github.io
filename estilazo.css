@@ -1,0 +1,56 @@
+body{ font-family: Cursive ;background-color:#F5F5DC;}
+h1 {text-align: Center;}
+p {
+	margin-left: 80px;
+	font-size: 14pt;
+	color:#513B1C;}
+	body{
+	margin-left: 20px;
+	font-size: 14pt;
+	color:#872657;} /**sirve pa rodear de marxes de coor as palabras seleccionadas**/
+	h1 {
+  text-shadow: 3px 5px 7px #8EEBEC;
+} /** serve para ponerlle sobra as letras **/
+ul {
+  border: 2px solid black;
+  outline: #EE82EE solid 10px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+}
+
+body {padding: 40px;}
+div {;background-color:#4863;
+
+}
+span {text-decoration: underline;
+	color: black;
+	text-shadow: 3px 5px 7px #F8F8FF
+
+}
+form{sha
+
+}
+.marron {
+color:brown;
+bacground-color:peach;
+}
+.flotarizquierda {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 10px;
+}
+
+h1{
+              ont-family: 'Rambla', sans-serif;
+}
+
+h2{
+	font-family: 'Rambla', sans-serif;
+}
+.flotarderecha{
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    padding: 10px;

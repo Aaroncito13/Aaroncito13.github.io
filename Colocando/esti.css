@@ -1,0 +1,54 @@
+p{
+
+	/*margin: 10%;*/
+	color: blue;
+	 text-shadow: 3px 5px 7px green;
+	  background-color: yellow;
+}
+
+.flotarizquierda {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 10px;
+}
+
+.flotarderecha{
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    padding: 10px;
+
+}
+
+.flotarizquierda2 {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 10px;
+
+}
+
+.flotarizquierda3 {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 10px;¨}
+
+
+.colocar{
+    clear: both;
+}
+
+li{color: blue;
+display: inline;
+padding-right: 10%;
+}
+
+hr{
+    border-style: dotted;
+}
+
+.artigo h2{
+    margin: 20px;
+}
